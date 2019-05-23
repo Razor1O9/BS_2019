@@ -1,0 +1,1 @@
+mkfs.o: mkfs.c

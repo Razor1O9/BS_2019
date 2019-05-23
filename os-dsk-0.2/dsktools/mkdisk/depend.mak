@@ -1,0 +1,1 @@
+mkdisk.o: mkdisk.c

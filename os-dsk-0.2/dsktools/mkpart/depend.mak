@@ -1,0 +1,1 @@
+mkpart.o: mkpart.c

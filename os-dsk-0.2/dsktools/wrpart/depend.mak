@@ -1,0 +1,1 @@
+wrpart.o: wrpart.c
